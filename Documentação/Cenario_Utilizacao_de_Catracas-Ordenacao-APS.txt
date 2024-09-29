@@ -1,0 +1,54 @@
+
+
+Cenário: Somos uma equipe de desenvolvimento de uma empresa de transporte público.
+
+
+Algorítmos: 
+- Bubble sort (fácil)
+- Insertion sort (fácil)
+- Counting sort (moderado)
+
+
+		ARQUIVO JSON
+Ticket = {
+	nome: string,   
+	
+	data_hora: string,  
+	
+	localizacao_catraca: string,		
+	
+	tipo_ticket: TipoTicketEnum
+}
+
+TipoTicketEnum = {
+	ESTUDANTE, COMERCIAL, PREFERENCIAL
+}
+
+
+		ORDENAÇÃO E CARACTERÍSTICAS PARA ORDENAÇÃO
+
+nome: -> ORDENAÇÃO ALFABÉTICA
+
+data_hora:  -> ORDENAÇÃO TEMPORAL
+
+localizacao_catraca: _CARACTERISTICA PARA ORDENAÇÃO	OU	 ORDENAÇÃO POR OCORRÊNCIA - LOCALIZAÇÃO MAIS UTILIZADA
+
+tipo_ticket: _CARACTERISTICA PARA ORDENAÇÃO	OU	ORDENAÇÃO POR OCORRÊNCIA  - TIPO DE TICKET MAIS UTILIZADO
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
