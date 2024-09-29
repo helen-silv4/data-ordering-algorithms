@@ -36,19 +36,4 @@ localizacao_catraca: _CARACTERISTICA PARA ORDENAÇÃO	OU	 ORDENAÇÃO POR OCORR�
 tipo_ticket: _CARACTERISTICA PARA ORDENAÇÃO	OU	ORDENAÇÃO POR OCORRÊNCIA  - TIPO DE TICKET MAIS UTILIZADO
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+Excalidraw diagrama: https://excalidraw.com/#json=thyUh5FcdRrje2aPMCB9M,pNhsgAwRvI6BDAZgajRtRA
